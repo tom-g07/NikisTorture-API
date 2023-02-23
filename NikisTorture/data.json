@@ -1,0 +1,86 @@
+{
+  "sorte":
+  {
+    "raubtier":
+    {
+      "loewe":
+      {
+        "name" : "Löwe",
+        "beschreibung" : "Löwen sind die zweitgrößten Katzen der Welt, in Größe und Gewicht nur von Tigern übertroffen. Männliche Löwen sind wesentlich größer, vor allem kräftiger und deutlich schwerer als die Weibchen. Bei Männchen misst die Kopfrumpflänge 172 bis 250 cm, bei Weibchen 158-192 cm.",
+        "lebenserwartung" : "männlicher Löwe bis zu 10 Jahre, weiblicher Löwe bis zu 16 Jahre",
+        "sozialverhalten" : "leben typischerweise gesellig in Rudeln",
+        "nahrung" : "Zebras, BÜffel, ...",
+        "fressfeinde" : "andere Löwen, Hyänen für Welpen"
+      },
+      "pinguin":
+      {
+        "name" : "Kaiserpinguin",
+        "beschreibung" : "Pinguine gehen aufrecht wie Menschen, haben Federn wie Vögel und Flossen wie Fische. Sie sind auf dem Eis der Antarktis ebenso zu Hause wie am Rand der Wüste, in hohem Gras oder sogar auf Bäumen. Kaum ein anderes Tier hat so unterschiedliche Lebensräume erobert.",
+        "lebenserwartung" : "bis zu 20 Jahre",
+        "sozialverhalten" : "monogam und treu",
+        "nahrung" : "Quallen, Fische, Hummer, ...",
+        "fressfeinde" : "Seeleoparden, Orcas, Raubmöwen und Riesensturmvögel für Küken"
+      },
+      "marder":
+      {
+        "name" : "Steinmarder",
+        "beschreibung" : "Steinmarder haben den für Marder üblichen Körperbau mit einem langgestreckten, schlanken Rumpf und relativ kurzen Gliedmaßen. Der Schwanz ist relativ lang und buschig. Von der zweiten in Mitteleuropa lebenden Art der Echten Marder, dem Baummarder, unterscheidet er sich äußerlich in Form und Farbe des Kehlflecks.",
+        "lebenserwartung" : "bis zu 20 Jahre",
+        "sozialverhalten" : "Einzelgänger, die außerhalb der Paarungszeit den Kontakt zu Artgenossen meiden",
+        "nahrung" : "Mäuse, Küken / Eier, Vögel (Hühner, Amseln, ...), Kaninchen, Fische, ...",
+        "fressfeinde" : "Menschen, Greifvögel, Füchse und Katzen für Marderjungen"
+      },
+      "lachs":
+      {
+        "name" : "Atlantischer Lachs",
+        "beschreibung" : "Der Atlantische Lachs hat einen langgestreckten Körper mit einem schlanken Schwanzstiel. Die erwachsenen Tiere sind auf dem Rücken grünlichgrau gefärbt, ihre Seiten sind silbrig mit dunklen Punkten, ihr Bauch ist weiß. Zur Laichzeit verfärbt sich ihr Rücken nach dunkelblaugrün, seine Seiten werden orangerot.",
+        "lebenserwartung" : "bis zu 10 Jahre",
+        "lebensraum" : "die gemäßigten bis arktischen, küstennahen Gewässer des Atlantiks",
+        "sozialverhalten" : "anadrome Wanderer, Schwarmtier",
+        "nahrung" : "Kleinkrebse, Insekten und Würmer, Fische (nur ausgewachsene Lachse)",
+        "fressfeinde" : "Lachsartige, Fische, Vögel"
+      }
+    },
+    "beutetier":
+    {
+      "schaf":
+      {
+        "name" : "Hausschaf",
+        "beschreibung" : "Schafe erreichen eine größe 1,2 bis 1,8 Metern, wobei es noch einen 7 bis 15 cm langen Schwanz gibt. Dieser ist 65 bis 125 cm, und das Gewicht liegt bei 20 bis 200 Kilogramm - Obwohl Männchen schwerer aussehen als Weibchen. Die Fellfärbung variiert von weißlich bis dunkelbraun, es kommt öfters zu einem Fellwechsel.",
+        "lebenserwartung" : "bis zu 12 Jahre",
+        "sozialverhalten" : "Herdentiere",
+        "nahrung" : "Gras, Kräuter, frische Äste, Samen, Körner, Heu, Wurzeln, Knollen, etc.",
+        "fressfeinde" : "Menschen, Wölfe, Bären"
+      },
+      "taube":
+      {
+        "name" : "Taube",
+        "beschreibung" : "Tauben sind kräftig gebaut und meist auffallend kleinköpfig. Der Schnabel hat nur in der distalen Hälfte eine Hornscheide. Die basale Hälfte wird von einer weichen, basisnah geschwollenen Haut bedeckt, unter der sich die schlitzförmigen Nasenlöcher befinden.",
+        "lebenserwartung" : "bis zu 9 Jahre",
+        "sozialverhalten" : "Gruppenverbände, beide Eltern kümmern sich",
+        "nahrung" : "alles was es zu finden gibt",
+        "fressfeinde" : "Sperber, Habicht, Mäusebussard, Uhu, Wanderfalke, Ratten und Katzen (für Küken und Eier)"
+      },
+      "schnecke":
+      {
+        "name" : "Schnecke",
+        "beschreibung" : "Schnecken sind die einzigen Weichtiere, die nicht nur im Wasser, sondern auch an Land leben. An Land kriechen sie langsam und hinterlassen eine Spur aus Schleim, auf der sie rutschen. Die Landschnecken kann man grob unterteilen in Nacktschnecken und Gehäuseschnecken.",
+        "lebenserwartung" : "ca. 1 Jahr",
+        "lebensraum" : "Landschnecken bevorzugen feuchte und schattige Gebiete, Wasserschnecken Leben im Wasser",
+        "sozialverhalten" : "Kein wirklich vorhandenes Sozialverhalten",
+        "nahrung" : "Pflanzenreste und welke Blätter, vermodertes Gras oder Mulm, ...",
+        "fressfeinde" : "Igel, Spitzmäuse, viele Vogelarten, Kröten, Blindschleichen, ..."
+      },
+      "muschel":
+      {
+        "name" : "Islandmuschel",
+        "beschreibung" : "Muscheln sind Weichtiere mit einer harten Schale, die aus zwei Klappen besteht. Sie leben auf der ganzen Welt, von der Arktis bis zur Antarktis, und immer im Wasser. Die meisten leben im Meerwasser, sogar bis zu 11.000 Metern Tiefe. Es gibt aber auch Muscheln im Brackwasser und im Süßwasser, also in Seen und Flüssen.",
+        "lebenserwartung" : "Rekord: 507 Jahre",
+        "lebensraum" : "auf schlickigen, sandigen oder auch kiesigen Böden vom Gezeitenbereich bis zu 482 Meter Wassertiefe",
+        "sozialverhalten" : "??",
+        "nahrung" : "feinstem Plankton",
+        "fressfeinde" : "Menschen, Seesterne, Schnecken, Fische, Walrösser, Möwen, andere Vögel, ..."
+      }
+    }
+  }
+}
